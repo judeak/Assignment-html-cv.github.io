@@ -27,7 +27,14 @@ cv-website<br>
 ┣  index.html<br>
 ┣  style.css<br> 
 ┣  assets<br>
-┃ ┣  profile.jpg<br>
-┃ ┗  icons/<br>
+┃ ┣  girlicon.png<br>
+┃ ┗  POST_TRAUMATIC_STRESS_DISORDER_DIAGNOSIS_AND_TREATMENTS.docx<br>
+┃ ┗ SW_final_report.docx<br>
+┃ ┗high_school_certificate.png<br>
 ┗  README.md<br>
+
+
+
+
+
 
