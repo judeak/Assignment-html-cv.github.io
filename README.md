@@ -23,5 +23,11 @@ This project showcases my professional background, skills, experience, and conta
 ---
 
 ##  Project Structure
-
+cv-website
+┣ index.html
+┣  style.css
+┣  assets
+┃ ┣  profile.jpg
+┃ ┗  icons/
+┗  README.md
 
