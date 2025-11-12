@@ -24,7 +24,7 @@ This project showcases my professional background, skills, experience, and conta
 
 ##  Project Structure
 cv-website
-┣ 📜 index.html
+┣ 📜 index.html \n
 ┣ 📜 style.css
 ┣ 📂 assets
 ┃ ┣ 📜 profile.jpg
