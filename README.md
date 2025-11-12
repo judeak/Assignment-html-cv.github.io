@@ -23,11 +23,11 @@ This project showcases my professional background, skills, experience, and conta
 ---
 
 ##  Project Structure
-cv-website
-┣ 📜 index.html<br>
-┣ 📜 style.css<br> 
-┣ 📂 assets<br>
-┃ ┣ 📜 profile.jpg<br>
-┃ ┗ 📜 icons/<br>
-┗ 📜 README.md<br>
+cv-website<br>
+┣  index.html<br>
+┣  style.css<br> 
+┣  assets<br>
+┃ ┣  profile.jpg<br>
+┃ ┗  icons/<br>
+┗  README.md<br>
 
